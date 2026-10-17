@@ -1,22 +1,23 @@
 # سراج آية — نسخة الآيفون التجريبية
 
-## تحميل IPA
+[**تحميل SirajAyah-2.1.0-unsigned.ipa**](https://github.com/alrimii/sirajayah-downloads/releases/download/ios-test-2.1.0/SirajAyah-2.1.0-unsigned.ipa)
 
-[**تحميل SirajAyah-2.0.0-unsigned.ipa**](https://github.com/alrimii/sirajayah-downloads/releases/download/ios-test-2.0.0/SirajAyah-2.0.0-unsigned.ipa)
+نسخة تجريبية بواجهة مستقلة للهاتف: شاشة مشاريع، إعدادات للغة والمظهر، ومحررات للصور والفيديو بأدوات سفلية للمس. تحافظ على هوية سراج آية ومحرك التصميم المشترك.
 
-الرابط الثابت للنسخ والمشاركة:
+اللغة والمظهر يدعمان اتباع إعدادات الجهاز. اللغات: العربية والإنجليزية والإسبانية.
 
-```text
-https://github.com/alrimii/sirajayah-downloads/releases/download/ios-test-2.0.0/SirajAyah-2.0.0-unsigned.ipa
-```
+شُغلت شاشة المشاريع على محاكي iPhone 17 Pro / iOS 26.5، ورُوجعت واجهات المحررات والإعدادات في معاينة الهاتف بالمتصفح. لم تُختبر هذه النسخة على جهاز iPhone فعلي بعد.
 
-- الإصدار: 2.0.0، الحجم: نحو 44 ميجابايت.
-- يتطلب iOS 15 أو أحدث.
-- الملف غير موقّع؛ يحتاج توقيعًا عبر أداة التثبيت قبل تشغيله على الآيفون.
-- استخدم الرابط الثابت أعلاه؛ عنوان `release-assets.githubusercontent.com` الذي يظهر بعد التحويل مؤقت.
+- الإصدار: 2.1.0، الحجم: 44.4 MB.
+- ملف غير موقّع؛ استخدم أداة التوقيع والتثبيت الخاصة بك.
+- للتحديث مع الحفاظ على المشاريع، استخدم هوية التوقيع نفسها وتجنب إزالة التطبيق الحالي.
 
-[صفحة الإصدار](https://github.com/alrimii/sirajayah-downloads/releases/tag/ios-test-2.0.0)
+الرابط الثابت:
 
-SHA-256: `6199a182e078bade6dab77118eec22cb6db00f572452039584b8e3c4e3f96d33`
+https://github.com/alrimii/sirajayah-downloads/releases/download/ios-test-2.1.0/SirajAyah-2.1.0-unsigned.ipa
 
-Public test download only. Application source is maintained separately.
+SHA-256: `13d108484be6a4f1959617b9fd7131b5909a818d89c3cd5d70a26993962be69c`
+
+Unsigned iPhone test build with a dedicated phone interface in Capacitor. Source remains private.
+
+[الإصدارات السابقة](https://github.com/alrimii/sirajayah-downloads/releases)
